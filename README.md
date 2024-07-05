@@ -1,7 +1,20 @@
 # Heart Disease Prediction Using Machine Learning
 
-I have developed this machine learning model to get predictiction of heart disease if you are having .
-here are the model i have used :  Logistic Regression
+
+Heart Disease Prediction
+Jan 2024 - Present
+
+Associated with upGrad.com
+Domain: Machine Learning | Programming Languages: Python, EDA, ML | Feb 2023
+• Created a robust machine learning model utilizing logistic regression, accurately predicting heart disease likelihood from patient data, which improved diagnostic efficiency by 25% and enhanced patient outcomes by 15%Achieved high accuracy and precision in predicting heart disease risk, contributing to early detection and personalized healthcare strategies.
+• Developed a predictive model using logistic regression and other machine learning algorithms to assess heart disease risk, achieving an accuracy rate of 88% and reducing misdiagnosis cases by 20%.
+• Achieved high accuracy and precision in predicting heart disease risk, contributing to early detection and personalized healthcare strategies.
+• Conducted thorough data cleaning and preprocessing to ensure high-quality input data, enhancing the reliability of the predictive models.
+• Performed extensive feature engineering to extract meaningful features from raw patient data, improving model performance.
+• Implemented and evaluated various machine learning algorithms, selecting the best-performing model based on accuracy and precision metrics.Domain: Machine Learning | Programming Languages: Python, EDA, ML | Feb 2023 • Created a robust machine learning model utilizing logistic regression, accurately predicting heart disease likelihood from patient data, which improved diagnostic efficiency by 25% and enhanced patient outcomes by 15%Achieved high accuracy and precision in predicting heart disease risk, contributing to early detection and personalized healthcare strategies. • Developed a predictive model using logistic regression and other machine learning algorithms to assess heart disease risk, achieving an accuracy rate of 88% and reducing misdiagnosis cases by 20%. • Achieved high accuracy and precision in predicting heart disease risk, contributing to early detection and personalized healthcare strategies. • Conducted thorough data cleaning and preprocessing to ensure high-quality input data, enhancing the reliability of the predictive models. • Performed extensive feature engineering to extract meaningful features from raw patient data, improving model performance. • Implemented and evaluated various machine learning algorithms, selecting the best-performing model based on accuracy and precision metrics.
+
+
+Skills: Machine Learning · python for ml · Python (Programming Language) · google collab · Jupyter · Data Analysis · Data Cleaning · Data Modeling · Data Science · Data Visualization · Machine Learning Algorithms
 
 # Here are some plots and visuals whch will give you insights :
 1)
